@@ -1,0 +1,16 @@
+{
+  "name": "orderTest",
+  "version": "1.0.0",
+  "description": "微信小程序——餐饮点餐商城",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LucyLing",
+  "license": "ISC",
+  "dependencies": {
+    "@vant/weapp": "^1.6.9",
+    "apifm-wxapi": "^3.38.0",
+    "wxbarcode": "^1.0.2"
+  }
+}
