@@ -1,5 +1,6 @@
 ﻿# longting-restaurant-order-mini-app
 
+<img width="1061" alt="image" src="https://user-images.githubusercontent.com/56916034/236677242-e7448eac-6dd1-4474-a26d-42cbcf2825a1.png">
 
 
 ![ED68A4BF0EA314EC336702F7BF2C1920](https://user-images.githubusercontent.com/56916034/236327247-bba2db96-1f28-449b-9390-b492325579d3.png)
